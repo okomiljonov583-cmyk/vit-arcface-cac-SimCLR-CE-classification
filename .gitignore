@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+logs/
+lightning_logs/
+split_output/
+*.pth
+*.pt
+*.ckpt
